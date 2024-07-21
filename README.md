@@ -61,11 +61,11 @@ The Advanced Live Currency Converter is a Python-based command-line tool that pr
 
  Clone the repository:
 
-    git clone https://github.com/fen0dev/currency_converter.git
+    git clone https://github.com/fen0dev/Advanced-Live-Currency-Exchanger.git
 
  Navigate to the project directory:
 
-    cd currency_converter
+    cd Advanced-Live-Currency-Exchanger
 
 Install the required dependencies:
 
